@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Autonomous Agent",
+  "description": "An application that acts like an enhanced Auto-GPT, using the Gemini API to autonomously work towards a user-defined goal. It breaks down tasks, performs actions like web searches, and iteratively refines its approach. This is not a simulation.",
+  "requestFramePermissions": []
+}
